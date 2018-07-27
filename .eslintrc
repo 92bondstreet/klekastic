@@ -1,0 +1,6 @@
+{
+  "rules": {
+    "arrow-parens": ["error", "as-needed"],
+    "object-curly-spacing": ["error", "never"]
+  }
+}
